@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Playfinity
 
-You can use the [editor on GitHub](https://github.com/Playfinity/playfinity.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Playfinity is about active gaming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have created a **game console** (a small puck loaded with sensors). This game console can be used inside a ball, can be worn on your body, or used to whatever idea you have.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## API
 
-```markdown
-Syntax highlighted code block
+The best part is that we have made an API, so that you can get access to all our work, getting game events delivered to your app:
 
-# Header 1
-## Header 2
-### Header 3
+- ball throw
+- ball catch
+- ball bounce
+- ball miss
+- ball flight air-time
+- ball height
+- ball speed
+- jump
+- land on feet. We shall add land on back and land on front.
+- events have attached properties such as
+  - jump height
+  - jump rotation in degrees
+- ball kick
+- ball bounce
+- ball miss
+- ball flight air-time
+- ball height
+- top button
+- top button release
+- side button
+- side button release
 
-- Bulleted
-- List
+If you do not yet have the console or the ball, you can buy it from our shop: https://playfinity.io
 
-1. Numbered
-2. List
+We have made the API for:
 
-**Bold** and _Italic_ and `Code` text
+- [Android](https://github.com/Playfinity/playfinity-recorder-android)
+- [iOS](https://github.com/Playfinity/playfinity-starter-ios)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Playfinity/playfinity.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
