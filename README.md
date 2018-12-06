@@ -1,3 +1,4 @@
+![logo](/images/playfinity-logo.png)
 ## Welcome to Playfinity
 
 Playfinity is about active gaming.
