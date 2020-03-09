@@ -4,3 +4,4 @@
   <allow-access-from domain="llk.github.io"/>
   <allow-access-from domain="*" to-ports="88990"/>
 </cross-domain-policy>
+\0
