@@ -5,6 +5,8 @@ Playfinity is about active gaming.
 
 We have created a **game console** (a small puck loaded with sensors). This game console can be used inside a ball, can be worn on your body, or used to whatever idea you have.
 
+The console runs Playfinity playOS, and the SDKs on iOS and Android integrates with playOS.
+
 
 ## API
 
